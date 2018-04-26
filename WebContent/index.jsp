@@ -58,7 +58,7 @@
 										<option value="组员">组员</option>
 									</select>
 								</div>
-							</div>
+							</div>/*这是修改后的项目*/
 
 							<div class="form-group">
 								<label for="textCheckCode" class="col-sm-2 control-label">
